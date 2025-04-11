@@ -92,6 +92,7 @@
   - Поддержка мультиязычности.
   - Интеграция с CRM-системой.
 
-![image](https://github.com/user-attachments/assets/3fd31c04-d53d-420e-914d-973d78e8f6cf)
+
+![1](https://github.com/user-attachments/assets/244e3aba-c288-455d-b56d-ed99a96235c4)
 
 ![2](https://github.com/user-attachments/assets/7f9d3417-f050-4ac8-a070-06dac71b447b)
